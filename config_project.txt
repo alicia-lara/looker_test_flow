@@ -1,1 +1,1 @@
-Soy la configuración de production.
+Soy la configuración de development.
